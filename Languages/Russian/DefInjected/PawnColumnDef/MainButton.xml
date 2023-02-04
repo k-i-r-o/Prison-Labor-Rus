@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tabs for main windows -->
+
+  <PL_InteractionColumn.label>Interaction</PL_InteractionColumn.label>
+  <PL_InteractionColumn.headerTip>Interaction mode</PL_InteractionColumn.headerTip>
+
+  <PL_Resocialization.label>Resocialization</PL_Resocialization.label>
+  <PL_Resocialization.headerTip>Prisoner wants to join to your colony</PL_Resocialization.headerTip>
+
+  <PL_HasLegcuffs.label>Has Legcuffs</PL_HasLegcuffs.label>
+  <PL_HasHandcuffs.label>Has Handcuffs</PL_HasHandcuffs.label>
+  <PL_EscapeColumn.label>Ready to escape</PL_EscapeColumn.label>
+  <PL_MotivationColumn.label>Motivation</PL_MotivationColumn.label>
+  <PL_TreatmentColumn.label>Treatment</PL_TreatmentColumn.label>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PrisonLabor_Revolt.label>бунт</PrisonLabor_Revolt.label>
+  <PrisonLabor_Revolt.letterText>Revolt has been started by {0}. The prisoners united under faction {1}, and began uprising with self-made weapons</PrisonLabor_Revolt.letterText>
+  <PrisonLabor_Revolt.letterLabel>Бунт</PrisonLabor_Revolt.letterLabel>
+
+  <PrisonLabor_ResocializationOffer.label>resocialization offer</PrisonLabor_ResocializationOffer.label>
+  <PrisonLabor_ResocializationOffer.letterText>Offer by {0}.</PrisonLabor_ResocializationOffer.letterText>
+  <PrisonLabor_ResocializationOffer.letterLabel>Resocialization offer</PrisonLabor_ResocializationOffer.letterLabel>
+
+  <PrisonLabor_Suicide.label>prisoner suicide</PrisonLabor_Suicide.label>
+  <PrisonLabor_Suicide.letterText>{0} has commited suicide, because of bad treatment.</PrisonLabor_Suicide.letterText>
+  <PrisonLabor_Suicide.letterLabel>Prisoner suicide</PrisonLabor_Suicide.letterLabel>
+
+
+</LanguageData>

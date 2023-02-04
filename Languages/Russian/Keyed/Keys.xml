@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PrisonLabor_PrisonerWork>Заставить работать</PrisonLabor_PrisonerWork>
+  <PrisonLabor_WorkAndRecruit>Работать и агитировать присоединится</PrisonLabor_WorkAndRecruit>
+  <PrisonLabor_WorkAndConvert>Work and convert</PrisonLabor_WorkAndConvert>
+  <PrisonLabor_WorkAndEnslave>Work and enslave</PrisonLabor_WorkAndEnslave>
+  <PrisonLabor_LazyPrisonerMessage>Ваш раб прекратил работать!</PrisonLabor_LazyPrisonerMessage>
+  <PrisonLabor_WardenResponseThreshold>Warden response threshold</PrisonLabor_WardenResponseThreshold>
+  <PrisonLabor_StoppingWorkThreshold>Уровень на котором заключенный прекращает работать</PrisonLabor_StoppingWorkThreshold>
+  <PrisonLabor_WorkTypeDisabled>Запрещенные типы работ для заключенных</PrisonLabor_WorkTypeDisabled>
+  <PrisonLabor_ShowNews>Показывать новости о заключенных</PrisonLabor_ShowNews>
+  <PrisonLabor_ShowNewsDesc>Показывать сообщения об изменениях в моде если он был установлен раньше</PrisonLabor_ShowNewsDesc>
+  <PrisonLabor_DefaultInterMode>Поведение с заключенными по умолчанию</PrisonLabor_DefaultInterMode>
+  <PrisonLabor_AllowedWorkTypes>Разрешенные типы работ</PrisonLabor_AllowedWorkTypes>
+  <PrisonLabor_AllowAll>разрешить все</PrisonLabor_AllowAll>
+  <PrisonLabor_AllowAllWorkTypes>allow all work types</PrisonLabor_AllowAllWorkTypes>
+  <PrisonLabor_AllowedWorkTypesL>allowed work types:</PrisonLabor_AllowedWorkTypesL>
+  <PrisonLabor_Browse>просмотреть</PrisonLabor_Browse>
+  <PrisonLabor_MotivationMechanics>Механика мотивации заключенных (!)</PrisonLabor_MotivationMechanics>
+  <PrisonLabor_MotivationWarning>Если включитьто заключенныхнадо мотивировать. \n\n ПРЕДУПРЕЖЕНИЕ: надо перезагрузить сохранение</PrisonLabor_MotivationWarning>
+  <PrisonLabor_MotivationIcons>Иконки Вдохновления/Мотивации</PrisonLabor_MotivationIcons>
+  <PrisonLabor_MotivationIconsDesc>Если включить то над головами заключенных будут показаны иконки статуса. Синяя иконка - вдохновление, зеленая - мотивация полученная другим путем.</PrisonLabor_MotivationIconsDesc>
+  <PrisonLabor_CanGrowAdvanced>Заключенные могут сажать изученные растения.</PrisonLabor_CanGrowAdvanced>
+  <PrisonLabor_CanGrowAdvancedDesc>Если отключить то заключенные могут сажать только самые базовые растения.</PrisonLabor_CanGrowAdvancedDesc>
+  <PrisonLabor_Version>Версия:</PrisonLabor_Version>
+  <PrisonLabor_Difficulty>Сложность:</PrisonLabor_Difficulty>
+  <PrisonLabor_Defaults>По умолчанию</PrisonLabor_Defaults>
+  <PrisonLabor_DifficultyNormal>Нормально</PrisonLabor_DifficultyNormal>
+  <PrisonLabor_DifficultyCasual>Казуальненько</PrisonLabor_DifficultyCasual>
+  <PrisonLabor_DifficultyEasy>Легко</PrisonLabor_DifficultyEasy>
+  <PrisonLabor_DifficultyPeaceful>Мирно</PrisonLabor_DifficultyPeaceful>
+  <PrisonLabor_DifficultyJoke>Шуточная</PrisonLabor_DifficultyJoke>
+  <PrisonLabor_LazyPrisonerAlert>Заключенные не работают.</PrisonLabor_LazyPrisonerAlert>
+  <PrisonLabor_LazyPrisonerExplanationDef>Заключенные ленятся. Пора промотивировать их.</PrisonLabor_LazyPrisonerExplanationDef>
+  <PrisonLabor_LazyPrisonerExplanation>Эти заключенные ленятся: \n\n{0}\n Их надокакто промотивироватьЄ</PrisonLabor_LazyPrisonerExplanation>
+  <PrisonLabor_StarvingPrisonerAlert>Заключенные голодают</PrisonLabor_StarvingPrisonerAlert>
+  <PrisonLabor_StarvingPrisonerExplanationDef>Заключенные голодают и не будут работать.</PrisonLabor_StarvingPrisonerExplanationDef>
+  <PrisonLabor_StarvingPrisonerExplanation>Those prisoners are starving and won't work:\n\n{0}</PrisonLabor_StarvingPrisonerExplanation>
+  <PrisonLabor_LaborArea>Зона работ для заключенных</PrisonLabor_LaborArea>
+  <PrisonLabor_LaborAreaDesc>Зона работ - зона гдетолько заключенные могут работать. Поселенцы не будут раюотать в зоне работ для заключенных.</PrisonLabor_LaborAreaDesc>
+  <PrisonLabor_ClearLaborArea>Сузить зону работ.</PrisonLabor_ClearLaborArea>
+  <PrisonLabor_ExpandLaborArea>Расширить зону работ.</PrisonLabor_ExpandLaborArea>
+
+  <PrisonLabor_EnableRevolts>Разрешить бунты</PrisonLabor_EnableRevolts>
+  <PrisonLabor_EnableRevoltsDesc>Если включить то бунт может случатся в качестве случайного события.</PrisonLabor_EnableRevoltsDesc>
+  <PrisonLabor_LaborAreaWarning>Зона работ не обязательна для того чтоб заключенные работали. \n\n Зона работ запрещает поселенцам работу в указанных местах.\n\n Она создана для тех случаев, когда вы не хотите чтобы поселенцы работали в указанном месте. Заключенные же будут работать там, куда у них есть доступ.</PrisonLabor_LaborAreaWarning>
+  <PrisonLabor_DontShowAgain>Больше не показывать</PrisonLabor_DontShowAgain>
+  <PrisonLabor_ShowTreatmentHappiness>Show treatment happiness</PrisonLabor_ShowTreatmentHappiness>
+  <PrisonLabor_ShowTreatmentHappinessDesc>When enabled treatment happiness will be shown in Needs tab.</PrisonLabor_ShowTreatmentHappinessDesc>
+
+  <PrisonLabor_ColonyOnlyShort>Anyone</PrisonLabor_ColonyOnlyShort>
+  <PrisonLabor_ColonistsOnlyShort>Colonists</PrisonLabor_ColonistsOnlyShort>
+  <PrisonLabor_PrisonersOnlyShort>Prisoners</PrisonLabor_PrisonersOnlyShort>
+
+  <PrisonLabor_ColonyOnly>Для поселения</PrisonLabor_ColonyOnly>
+  <PrisonLabor_ColonistsOnly>Только для поселенцев</PrisonLabor_ColonistsOnly>
+  <PrisonLabor_PrisonersOnly>Только для заключенных</PrisonLabor_PrisonersOnly>
+  <PrisonLabor_PrisonersAndSlaveOnly>Any non colonist</PrisonLabor_PrisonersAndSlaveOnly>
+
+  <!-- 0.10 -->
+  <PrisonLabor_RecruitButtonLabel>Recruit</PrisonLabor_RecruitButtonLabel>
+  <PrisonLabor_RecruitButtonDesc>Ready to join colony</PrisonLabor_RecruitButtonDesc>
+
+  <PrisonLabor_Alert_EscapingPrisoners_Title>Prisoners can escape</PrisonLabor_Alert_EscapingPrisoners_Title>
+  <PrisonLabor_Alert_EscapingPrisoners_DefaultExplanation>Prisoners can reach end of map and escape. They will run unless colonist will keep an eye on them.</PrisonLabor_Alert_EscapingPrisoners_DefaultExplanation>
+  <PrisonLabor_Alert_EscapingPrisoners_ExplanationFormat>Those prisoners can escape:\n\n{0}\nThey will run unless colonist will keep an eye on them.</PrisonLabor_Alert_EscapingPrisoners_ExplanationFormat>
+
+  <PrisonLabor_ButtonRemoveModFromSave>Select Save</PrisonLabor_ButtonRemoveModFromSave>
+  <PrisonLabor_ButtonRemoveModFromSaveDesc>Remove Prison Labor mod from save</PrisonLabor_ButtonRemoveModFromSaveDesc>
+
+  <PrisonLabor_ButtonBackup>Backup</PrisonLabor_ButtonBackup>
+  <PrisonLabor_ButtonProceed>Proceed</PrisonLabor_ButtonProceed>
+
+  <PrisonLabor_UpgradeSaveProcessMessage>Upgrading [PrisonLabor] mod</PrisonLabor_UpgradeSaveProcessMessage>
+  <PrisonLabor_UpgradeSaveDialogMessage>You are going to remove Prison Labor mod from save. After this operation you will be able to play without the mod.</PrisonLabor_UpgradeSaveDialogMessage>
+  <PrisonLabor_BackupSaveDialogMessage>Please backup your file with button below.</PrisonLabor_BackupSaveDialogMessage>
+
+  <PrisonLabor_ReplayTurorialsButton>Tutorials</PrisonLabor_ReplayTurorialsButton>
+  <PrisonLabor_ShowTutorialButton>Show</PrisonLabor_ShowTutorialButton>
+
+  <PrisonLabor_CommandBedSetOwnerLabel>Assign Prisoner</PrisonLabor_CommandBedSetOwnerLabel>
+  <PrisonLabor_CommandBedSetOwnerDesc>Assign this bed to be used by a specific prisoner</PrisonLabor_CommandBedSetOwnerDesc>
+
+  <PrisonLabor_EnableSuicide>Enable prisoner suicide</PrisonLabor_EnableSuicide>
+  <PrisonLabor_EnableSuicideDesc>Enables suicide of prisoners when they aren't very happy</PrisonLabor_EnableSuicideDesc>
+
+  <PrisonLabor_EnableFullHealRest>Enable prisoner full heal rest</PrisonLabor_EnableFullHealRest>
+  <PrisonLabor_EnableFullHealRestDesc>Prisoner will stay in bed until fully healed</PrisonLabor_EnableFullHealRestDesc>
+
+  <PrisonLabor_HandcuffsPut>Put handcuffs</PrisonLabor_HandcuffsPut>
+  <PrisonLabor_HandcuffsRemove>Remove handcuffs</PrisonLabor_HandcuffsRemove>
+  <PrisonLabor_LegcuffsPut>Put legcuffs</PrisonLabor_LegcuffsPut>
+  <PrisonLabor_LegcuffsRemove>Remove legcuffs</PrisonLabor_LegcuffsRemove>
+
+  <PrisonLabor_ToggleHandscuffs>Remove/put handcuffs</PrisonLabor_ToggleHandscuffs>
+  <PrisonLabor_ToggleLegscuffs>Remove/put legscuffs</PrisonLabor_ToggleLegscuffs>
+
+  <PrisonLabor_EnableDebugLogs>Enable Debug Logs</PrisonLabor_EnableDebugLogs>
+  <PrisonLabor_EnableDebugLogsDesc>Turning on this option may spam log</PrisonLabor_EnableDebugLogsDesc>
+
+  <PrisonLabor_CannotTakeToBed>Cannot take to bed</PrisonLabor_CannotTakeToBed>
+  <PrisonLabor_TakingToBed>Take {0} to bed</PrisonLabor_TakingToBed>
+
+  <!--<PrisonLabor_WardenResponeThreshold>Уровень на котором заключенный отвечает надзирателю</PrisonLabor_WardenResponeThreshold>-->
+  <!--<PrisonLabor_AllowAllWorktypes>разрешить все типы работ</PrisonLabor_AllowAllWorktypes>-->
+  <!--<PrisonLabor_AllowedWorktypesL>разрешить такие типы работ:</PrisonLabor_AllowedWorktypesL>-->
+  <!--<PrisonLabor_RestartInfo>Перезапустите и сохраните игру повторно.</PrisonLabor_RestartInfo>-->
+  <!--<PrisonLabor_RestartInfo2>После етих действий можно безопасно для сохранений, которые перезаписали, отключить мод.</PrisonLabor_RestartInfo2>-->
+  <!--<PrisonLabor_DisableMod>Отключить мод.</PrisonLabor_DisableMod>-->
+  <!--<PrisonLabor_DisableModDesc>Если включить, то сохранения в которых включен "безопасный режим" можно загружать без него.</PrisonLabor_DisableModDesc>-->
+  <!--<PrisonLabor_StarvingPrionserExplanation>Эти заключенные голодают и не будут работать: \n\n{0}</PrisonLabor_StarvingPrionserExplanation>-->
+  <!--<PrisonLabor_UpgradeSaveMessage>Upgrading [PrisonLabor] mod</PrisonLabor_UpgradeSaveMessage>-->
+
+</LanguageData>

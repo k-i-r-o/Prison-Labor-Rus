@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tabs for main windows -->
+
+  <PL_Overview.label>overview</PL_Overview.label>
+  <PL_LaborWindow.label>work</PL_LaborWindow.label>
+  <PL_ScheduleWindow.label>Schedule</PL_ScheduleWindow.label>
+  <PL_AssignWindow.label>Assign</PL_AssignWindow.label>
+  <PL_DevWindow.label>Dev</PL_DevWindow.label>
+
+
+</LanguageData>
