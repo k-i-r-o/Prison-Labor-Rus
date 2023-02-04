@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PrisonLabor_PrisonerChains.label>prisoners chains</PrisonLabor_PrisonerChains.label>
-  <PrisonLabor_PrisonerChains.description>This pawn has prisoners chains. Note: it is default Vanilla mechanics, but in hediff state</PrisonLabor_PrisonerChains.description>
+  <PrisonLabor_PrisonerChains.label>цепи заключенных</PrisonLabor_PrisonerChains.label>
+  <PrisonLabor_PrisonerChains.description>У этой пешки есть цепи заключенных</PrisonLabor_PrisonerChains.description>
   <PrisonLabor_PrisonerChains.stages.0.label>Неактивен</PrisonLabor_PrisonerChains.stages.0.label>
   <PrisonLabor_PrisonerChains.stages.1.label>Скован путами</PrisonLabor_PrisonerChains.stages.1.label>
-  <PrisonLabor_PrisonerChains.stages.2.label>unchained legs</PrisonLabor_PrisonerChains.stages.2.label>
-  <PrisonLabor_PrisonerChains.stages.3.label>unchained hands</PrisonLabor_PrisonerChains.stages.3.label>
+  <PrisonLabor_PrisonerChains.stages.2.label>освободить ноги</PrisonLabor_PrisonerChains.stages.2.label>
+  <PrisonLabor_PrisonerChains.stages.3.label>освободить руки</PrisonLabor_PrisonerChains.stages.3.label>
   <PrisonLabor_PrisonerChains.stages.4.label>active</PrisonLabor_PrisonerChains.stages.4.label>
 
-  <PrisonLabor_RemovedHandscuffs.label>Removed Handscuff</PrisonLabor_RemovedHandscuffs.label>
-  <PrisonLabor_RemovedHandscuffs.description>Prisoner has removed handscuffs</PrisonLabor_RemovedHandscuffs.description>
+  <PrisonLabor_RemovedHandscuffs.label>Снял наручники</PrisonLabor_RemovedHandscuffs.label>
+  <PrisonLabor_RemovedHandscuffs.description>Заключенный снял наручники с рук</PrisonLabor_RemovedHandscuffs.description>
   <PrisonLabor_RemovedHandscuffs.stages.0.label>not active</PrisonLabor_RemovedHandscuffs.stages.0.label>
   <PrisonLabor_RemovedHandscuffs.stages.1.label>active</PrisonLabor_RemovedHandscuffs.stages.1.label>
 
-  <PrisonLabor_RemovedLegscuffs.label>Removed legscuffs</PrisonLabor_RemovedLegscuffs.label>
-  <PrisonLabor_RemovedLegscuffs.description>Prisoner has removed legscuffs</PrisonLabor_RemovedLegscuffs.description>
+  <PrisonLabor_RemovedLegscuffs.label>Снял путы</PrisonLabor_RemovedLegscuffs.label>
+  <PrisonLabor_RemovedLegscuffs.description>Заключенный снял путы с ног</PrisonLabor_RemovedLegscuffs.description>
   <PrisonLabor_RemovedLegscuffs.stages.0.label>not active</PrisonLabor_RemovedLegscuffs.stages.0.label>
   <PrisonLabor_RemovedLegscuffs.stages.1.label>active</PrisonLabor_RemovedLegscuffs.stages.1.label>
 

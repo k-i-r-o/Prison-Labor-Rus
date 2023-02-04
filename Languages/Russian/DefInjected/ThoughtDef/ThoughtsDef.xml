@@ -3,14 +3,14 @@
 
   <!-- Situation thoughts -->
 
-  <PrisonLabor_VeryGoodTreatment.stages.0.label>treated very good</PrisonLabor_VeryGoodTreatment.stages.0.label>
-  <PrisonLabor_VeryGoodTreatment.stages.0.description>In this prison I've been treated very well.</PrisonLabor_VeryGoodTreatment.stages.0.description>
+  <PrisonLabor_VeryGoodTreatment.stages.0.label>обращались очень хорошо</PrisonLabor_VeryGoodTreatment.stages.0.label>
+  <PrisonLabor_VeryGoodTreatment.stages.0.description>В этой тюрьме со мной обращались очень хорошо.</PrisonLabor_VeryGoodTreatment.stages.0.description>
 
-  <PrisonLabor_LowMotivation.stages.0.label>not supervised</PrisonLabor_LowMotivation.stages.0.label>
-  <PrisonLabor_LowMotivation.stages.0.description>Nobody cares if I'm working or not.</PrisonLabor_LowMotivation.stages.0.description>
+  <PrisonLabor_LowMotivation.stages.0.label>не контролируемый</PrisonLabor_LowMotivation.stages.0.label>
+  <PrisonLabor_LowMotivation.stages.0.description>Никого не волнует, работаю я или нет.</PrisonLabor_LowMotivation.stages.0.description>
 
-  <PrisonLabor_FreeTime.stages.0.label>free time</PrisonLabor_FreeTime.stages.0.label>
-  <PrisonLabor_FreeTime.stages.0.description>Even tough I'm prisoner, I can still have some free time.</PrisonLabor_FreeTime.stages.0.description>
+  <PrisonLabor_FreeTime.stages.0.label>свободное время</PrisonLabor_FreeTime.stages.0.label>
+  <PrisonLabor_FreeTime.stages.0.description>Даже несмотря на то, что я заключенный, у меня все еще может быть немного свободного времени.</PrisonLabor_FreeTime.stages.0.description>
 
 
 </LanguageData>

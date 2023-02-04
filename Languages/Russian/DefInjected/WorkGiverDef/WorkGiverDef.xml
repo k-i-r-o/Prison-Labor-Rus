@@ -6,8 +6,8 @@
   <PrisonLabor_SupervisePrisonLabor.gerund>надзирает за заключенным</PrisonLabor_SupervisePrisonLabor.gerund>
 
   <PrisonLabor_ChatWithPrisoner.label>chat with working prisoners</PrisonLabor_ChatWithPrisoner.label>
-  <PrisonLabor_ChatWithPrisoner.verb>chat with</PrisonLabor_ChatWithPrisoner.verb>
-  <PrisonLabor_ChatWithPrisoner.gerund>chatting with</PrisonLabor_ChatWithPrisoner.gerund>
+  <PrisonLabor_ChatWithPrisoner.verb>погоорить с</PrisonLabor_ChatWithPrisoner.verb>
+  <PrisonLabor_ChatWithPrisoner.gerund>общяется с</PrisonLabor_ChatWithPrisoner.gerund>
 
   <PrisonLabor_HandleChains.label>handling prisoner's chains</PrisonLabor_HandleChains.label>
   <PrisonLabor_HandleChains.verb>handle prisoner's chains</PrisonLabor_HandleChains.verb>

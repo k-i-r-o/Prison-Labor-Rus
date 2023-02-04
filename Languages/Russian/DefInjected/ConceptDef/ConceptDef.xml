@@ -16,8 +16,8 @@
   <PrisonLabor_Timetable.label>Распорядок дня заключенных</PrisonLabor_Timetable.label>
   <PrisonLabor_Timetable.helpText>Для заключенных можно устанавливать распорядок дня. Как в основной игре. \n\n "Работа" - они будут работать независимо от голода или усталости\n\n "Развлечение" - время отдыха от работы и восстановления мотивации. \n\n "Сон" - заключенные будут оставатся в своих камерах. \n\n "Что угодно" - стандартное значение. </PrisonLabor_Timetable.helpText>
 
-  <PrisonLabor_Treatment.label>Treatment system</PrisonLabor_Treatment.label>
-  <PrisonLabor_Treatment.helpText>In prison labor you need to take care for prisoners. Good treatment can prevent revolts, and can provoke recruit proposition (without recruting process!).\n\nTo maintain good treatment status you need to feed prisoners regularly and set some free time so they can regenerate their strength\n\nTreatment will go lower if you beat prisoners, starve them, or exploit in terms of labor.\nGood treatment will result in:\n - Random offers with request to join colony\n - Preventing revolts\n - Preventing suicide</PrisonLabor_Treatment.helpText>
+  <PrisonLabor_Treatment.label>Обращение</PrisonLabor_Treatment.label>
+  <PrisonLabor_Treatment.helpText>На тюремном труде вам нужно заботиться о заключенных. Хорошее обращение может предотвратить бунты и может спровоцировать предложение о приеме на работу (без повторного процесса!). \n\n Для поддержания хорошего состояния лечения вам необходимо регулярно кормить заключенных и выделять им немного свободного времени, чтобы они могли восстановить свои силы \n\n Лечение ухудшится, если вы будете избивать заключенных, морить их голодом или эксплуатировать с точки зрения труда.\n Хорошее обращение приведет к: \n - Случайным предложениям с просьбой присоединиться к колонии \n - Предотвращению восстаний \n - Предотвращению самоубийств</PrisonLabor_Treatment.helpText>
 
 
 </LanguageData>

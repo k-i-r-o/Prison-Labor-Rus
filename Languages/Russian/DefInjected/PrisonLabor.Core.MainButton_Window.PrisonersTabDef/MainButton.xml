@@ -3,9 +3,9 @@
 
   <!-- Tabs for main windows -->
 
-  <PL_Overview.label>overview</PL_Overview.label>
-  <PL_LaborWindow.label>work</PL_LaborWindow.label>
-  <PL_ScheduleWindow.label>Schedule</PL_ScheduleWindow.label>
+  <PL_Overview.label>обзор</PL_Overview.label>
+  <PL_LaborWindow.label>работа</PL_LaborWindow.label>
+  <PL_ScheduleWindow.label>График</PL_ScheduleWindow.label>
   <PL_AssignWindow.label>Assign</PL_AssignWindow.label>
   <PL_DevWindow.label>Dev</PL_DevWindow.label>
 
