@@ -3,9 +3,9 @@
   <PrisonLabor_PrisonerWork>Заставить работать</PrisonLabor_PrisonerWork>
   <PrisonLabor_WorkAndRecruit>Работать и агитировать присоединится</PrisonLabor_WorkAndRecruit>
   <PrisonLabor_WorkAndConvert>Work and convert</PrisonLabor_WorkAndConvert>
-  <PrisonLabor_WorkAndEnslave>Work and enslave</PrisonLabor_WorkAndEnslave>
+  <PrisonLabor_WorkAndEnslave>Работать и порабощать</PrisonLabor_WorkAndEnslave>
   <PrisonLabor_LazyPrisonerMessage>Ваш раб прекратил работать!</PrisonLabor_LazyPrisonerMessage>
-  <PrisonLabor_WardenResponseThreshold>Warden response threshold</PrisonLabor_WardenResponseThreshold>
+  <PrisonLabor_WardenResponseThreshold>Порог реакции надзирателя</PrisonLabor_WardenResponseThreshold>
   <PrisonLabor_StoppingWorkThreshold>Уровень на котором заключенный прекращает работать</PrisonLabor_StoppingWorkThreshold>
   <PrisonLabor_WorkTypeDisabled>Запрещенные типы работ для заключенных</PrisonLabor_WorkTypeDisabled>
   <PrisonLabor_ShowNews>Показывать новости о заключенных</PrisonLabor_ShowNews>
@@ -13,8 +13,8 @@
   <PrisonLabor_DefaultInterMode>Поведение с заключенными по умолчанию</PrisonLabor_DefaultInterMode>
   <PrisonLabor_AllowedWorkTypes>Разрешенные типы работ</PrisonLabor_AllowedWorkTypes>
   <PrisonLabor_AllowAll>разрешить все</PrisonLabor_AllowAll>
-  <PrisonLabor_AllowAllWorkTypes>allow all work types</PrisonLabor_AllowAllWorkTypes>
-  <PrisonLabor_AllowedWorkTypesL>allowed work types:</PrisonLabor_AllowedWorkTypesL>
+  <PrisonLabor_AllowAllWorkTypes>разрешить все типы работ</PrisonLabor_AllowAllWorkTypes>
+  <PrisonLabor_AllowedWorkTypesL>разрешенные виды работ:</PrisonLabor_AllowedWorkTypesL>
   <PrisonLabor_Browse>просмотреть</PrisonLabor_Browse>
   <PrisonLabor_MotivationMechanics>Механика мотивации заключенных (!)</PrisonLabor_MotivationMechanics>
   <PrisonLabor_MotivationWarning>Если включитьто заключенныхнадо мотивировать. \n\n ПРЕДУПРЕЖЕНИЕ: надо перезагрузить сохранение</PrisonLabor_MotivationWarning>
